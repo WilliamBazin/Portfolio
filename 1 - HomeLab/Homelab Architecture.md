@@ -1,10 +1,12 @@
-# What are my goals and what do i want to create with my homelab ?
+# HomeLab Project
 
 > This is where everything start.
 
-Firstly, i have to plan what homelab i want to create. This plan can of course evolve afterward if i have new ideas on what to implement or new tools that could be cool to add. 
-For now i want to create a realistic infrastructure of a small company of ~20 employees.
+## Introduction
 
-Sadly i do not have the hardware to create my full homelab in real life. So i will virtualize everything.
+A homelab is always cool. You can be inventive, try new technologies, test vulnerabilities... Its a great tool to have with you. 
+
+Since I don't have the physical hardware to create a full-scale lab, I'll be virtualizing the entire environment. This approach allows me to be flexible and expand the setup as new ideas, tools, or technologies emerge.
+
 
 
