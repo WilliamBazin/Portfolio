@@ -14,6 +14,13 @@ This portfolio showcases project and cybersecurity-related work i undertake in m
 | Softeam | System Admin - Aprenticeship | 1 Year (2021 - 2022) | `Managing an Active Directory` `Participating in a security audit of a GLPI server` `Project : Managing workers write using GPO` `Hotline / Incident response`
 | LNE | IT maintenance - Aprenticeship | 2 Year (2019 - 2021 | `Hotline` `Hardware assembly` `IT Inventory` `Switch configuration`
 
+## Tools
+
+* Burp Suite
+* Nmap
+* Wireshark
+
+
 ## Contact
 You can reach out to me via [Linkedin](https://www.linkedin.com/mynetwork/grow/?skipRedirect=true)
 
